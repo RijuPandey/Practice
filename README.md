@@ -162,7 +162,7 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
       ### Notes ==============
   - Get access to the notes from the following link below :-
 
-    []
+    [https://drive.google.com/drive/u/0/folders/1uSwSRexq13G6UezbGz6MRduWYTgElxbH]
 
   ### Suggested Resources :
   - Live Class Recordings :-
