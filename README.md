@@ -76,9 +76,11 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
 
 ## Day-4  HTML tags
 
+- What is HTML?
 - Difference between Website and Web Application.
 - Difference between static web page and dynamic web page.
 - What is Web Server?
+- What is UI ?
 - Opening tags and closing tags in HTML.
 - Parired and Non-paired tag.
 - Tags in HTMl: 
