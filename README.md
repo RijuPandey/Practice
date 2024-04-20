@@ -82,6 +82,7 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
 - What is Web Server?
 - What is UI ?
 - Opening tags and closing tags in HTML.
+- what are attributes in tags?
 - Parired and Non-paired tag.
 - Tags in HTMl: 
    1. Html tag - 
